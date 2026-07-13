@@ -4,7 +4,7 @@ A fully responsive website built for **श्रीमती स. गं. लं
 
 This project was built as a self-initiated portfolio project to showcase front-end web development and UI/UX design skills — while giving a real educational institution a modern digital presence.
 
-🔗 **Live Site:** [gadekar328.github.io/Janseva_Website](https://gadekar328.github.io/Janseva_Website/)](https://gadekar328.github.io/Janseva_Website/)
+🔗 **Live Site:** [https://gadekar328.github.io/Janseva_Website/](https://gadekar328.github.io/Janseva_Website/)
 
 ---
 
